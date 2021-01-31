@@ -18,3 +18,4 @@ const VideoItem = ({ video: { snippet } }) => (
 );
 
 export default VideoItem;
+
