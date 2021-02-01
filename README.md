@@ -11,7 +11,7 @@
 
 ```sh
 - nodejs
-- npm -v
+- npm
 - yarn
 ```
 
