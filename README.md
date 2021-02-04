@@ -1,6 +1,8 @@
-<h1 align="center">Welcome to my youtube!</h1>
+<h1 align="center">Welcome to my youtube!!</h1>
 
-<p>This site was created with React, YouTube API, and PostCSS!</p>
+<p>This site was created with React, YouTube API, and PostCSS! 
+Get your Youtube API key and run it! -> 
+https://developers.google.com/youtube/v3</p>
 
 ## Main function
 
